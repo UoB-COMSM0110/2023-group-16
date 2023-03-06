@@ -13,7 +13,7 @@ Team photo to be added
 | |  |
 | |  |
 
-
+![Team_members](https://github.com/UoB-COMSM0110/2023-group-16/blob/31acc545b84c60e3b8d6ab751d67032a5baae410/team_photo.jpg)
 
 ## 2. Introduction (5% ~250 words)
 
