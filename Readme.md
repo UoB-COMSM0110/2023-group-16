@@ -8,7 +8,7 @@ Team photo to be added
 |  Name      |   Email 		|
 | -----------| ----------- |
 |Hanzheng Chen| yp22119 |
-| 	| |
+| Qijia Huang	|xv22044|
 |   |  | 
 | |  |
 | |  |
