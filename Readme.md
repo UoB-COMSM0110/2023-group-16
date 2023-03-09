@@ -9,7 +9,7 @@ Team photo to be added
 | -----------| ----------- |
 |Hanzheng Chen| yp22119 |
 | Qijia Huang	|xv22044|
-|   |  | 
+|  KaiXiao Shen |ym22880  | 
 | |  |
 | |  |
 
